@@ -73,3 +73,14 @@ h6 article{
     font-size: 20px;
     margin: 0px 40px 0px 70px;
 }
+
+#h1Footer{
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 20px 50px 10px 50px;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 70px;
+}
