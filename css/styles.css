@@ -1,0 +1,75 @@
+*{
+    background-color: cornflowerblue;
+}
+
+#bodyH1{
+    font-weight: bolder;
+    font-size: 50px;
+    border: 3px solid black;
+    text-align: center;
+    line-height: 50px;
+    background-color: black;
+    color: white;
+    margin: 20px 5px 20px 5px;
+}
+
+h2{
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 50px 50px 10px 50px;
+}
+
+h3{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-bottom: 3px;
+}
+
+h3 span{
+    font-weight: bold;
+}
+
+h4{
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+h4 span{
+    font-weight: bold;
+}
+
+#h5Title{
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 20px 50px 10px 50px;
+}
+
+#h5School{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-bottom: 3px;
+}
+
+#h5College{
+    font-weight: bold;
+}
+
+#h5Degree{
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+#h5DegreeBold{
+    font-weight: bold;
+}
+
+#h6Title{
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 20px 50px 10px 50px;
+}
+
+h6 article{
+    font-size: 20px;
+    margin: 0px 40px 0px 70px;
+}
