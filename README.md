@@ -10,7 +10,7 @@ About Me, with a guessing game.
 ### Links and Resources
 
 * [Lab 02](index.html)
-* [Instructor: Lena Eivy](lena@codefellows.com)
+* [Instructor: Lena Eivy](mailto:lena@codefellows.com)
 
 ### Reflections and Comments
 
