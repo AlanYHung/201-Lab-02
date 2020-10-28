@@ -2,6 +2,17 @@
     background-color: cornflowerblue;
 }
 
+.mainBody{
+    display: flex;
+}
+
+#mainBio{
+    width: 48%;
+    border: 3px solid black;
+    margin-left: 15px;
+    padding-bottom: 20px;
+}
+
 #bodyH1{
     font-weight: bolder;
     font-size: 50px;
@@ -10,13 +21,13 @@
     line-height: 50px;
     background-color: black;
     color: white;
-    margin: 20px 5px 20px 5px;
+    margin: 10px 5px 20px 5px;
 }
 
 h2{
     font-weight: bolder;
     font-size: 30px;
-    margin: 50px 50px 10px 50px;
+    margin: 20px 50px 10px 50px;
 }
 
 h3{
@@ -47,16 +58,14 @@ h4 span{
 #h5School{
     font-size: 20px;
     margin-left: 70px;
+}
+
+#h5School li{
     margin-bottom: 3px;
 }
 
 #h5College{
     font-weight: bold;
-}
-
-#h5Degree{
-    font-size: 20px;
-    margin-left: 70px;
 }
 
 #h5DegreeBold{
@@ -69,9 +78,36 @@ h4 span{
     margin: 20px 50px 10px 50px;
 }
 
-h6 article{
+h6 ul{
+    list-style-type: disc;
+    list-style-position: inside;
     font-size: 20px;
     margin: 0px 40px 0px 70px;
+}
+
+#favMovies{
+    width: 48%;
+    border: 3px solid black;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+#favMovies header{
+    font-weight: bolder;
+    font-size: 35px;
+    border: 3px solid green;
+    text-align: center;
+    line-height: 50px;
+    background-color: green;
+    color: white;
+    margin: 10px 5px 20px 5px;
+}
+
+#favMovies ol{
+    list-style-type: decimal;
+    list-style-position: inside;
+    font-size: 20px;
+    margin-left: 70px;
 }
 
 #h1Footer{
@@ -80,7 +116,9 @@ h6 article{
     margin: 20px 50px 10px 50px;
 }
 
-ul{
+footer ol{
+    list-style-type: decimal;
+    list-style-position: inside;
     font-size: 20px;
     margin-left: 70px;
 }
